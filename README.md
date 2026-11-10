@@ -1,4 +1,4 @@
-# Hi, I'm Ankit 👋
+# This is Ankit Bhandari
 3rd-year Computer Science student at UBC (Co-op), interested in full-stack and backend engineering.
 Previously a Software Engineer Intern at Global iTech Systems, where I cut page load times in half by fixing ORM query inefficiencies.
 
